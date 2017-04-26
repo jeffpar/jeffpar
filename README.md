@@ -1,2 +1,1 @@
-# jeffpar
-Personal Website
+This space intentionally left blank.
