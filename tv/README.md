@@ -18,8 +18,8 @@
 | The Handmaid's Tale | 1              | Showtime (Hulu)   | Now          |
 | Homeland            | 7              | Showtime (Hulu)   | 2018         |
 | Jordskott           | 1              | Sweden (Plex)     | Now          |
-| Orphan Black        | 4              | BBC (Plex)        | Now          |
 | Legion              | 2              | FX (Plex)         | 2018         | [Wikipedia](https://en.wikipedia.org/wiki/Legion_(TV_series))
+| Orphan Black        | 4              | BBC (Plex)        | Now          |
 | Shannara Chronicles | 2              | MTV               | Unknown      |
 | Trapped             | 1              | Iceland (Plex)    | Now          |
 | Twin Peaks          | 3              | Showtime (Hulu)   | May 21, 2017 | 
