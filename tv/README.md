@@ -11,6 +11,7 @@
 | Bosch               | 3              | Amazon            | Now          |
 | The Bridge          | 3              | Swe/Den (Plex)    | Now          |
 | The Expanse         | 2              | SyFy (Plex)       | Now          | [Wikipedia](https://en.wikipedia.org/wiki/The_Expanse_(TV_series)), [IMDb](http://www.imdb.com/title/tt3230854/)
+| Fargo               | 3              | FX                | Now          |
 | Feud                | 1              | FX                | Mar  5, 2017 |
 | Fortitude           | 1              | Amazon            | Now          |
 | Game of Thrones     | 7              | HBO               | Jul 16, 2017 |
