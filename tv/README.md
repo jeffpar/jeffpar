@@ -21,7 +21,9 @@
 | Legion              | 2              | FX (Plex)         | 2018         | [Wikipedia](https://en.wikipedia.org/wiki/Legion_(TV_series))
 | Orphan Black        | 4              | BBC (Plex)        | Now          |
 | Les Revenants       | 2              | France (Plex)     | Now          |
+| Sense8              | 2              | Netflix           | May 5, 2017  |
 | Shannara Chronicles | 2              | MTV               | Unknown      |
 | Silicon Valley      | 4              | HBO               | Now          |
 | Trapped             | 1              | Iceland (Plex)    | Now          |
+| Travelers           | 1              | Netflix           | Now          |
 | Twin Peaks          | 3              | Showtime (Hulu)   | May 21, 2017 | 
