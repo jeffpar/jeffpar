@@ -1,4 +1,3 @@
 ### Jeff's Projects
 
-- [PCjs](http://www.pcjs.org/)
-
+#### [PCjs: Machines In Your Browser](http://www.pcjs.org/)
