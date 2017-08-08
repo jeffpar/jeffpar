@@ -11,7 +11,7 @@ One day, someone at Google wrote an internal memo titled
 
 Some days later, the memo was no longer internal, and the person who wrote it was no longer working there.  He says
 he was fired for "[perpetuating gender stereotypes](http://www.newsweek.com/who-james-damore-alt-right-furious-after-google-fires-engineer-over-anti-647716)."
-Google doesn't get into the details, but Google CEO CEO Sundar Pichai says
+Google doesn't get into the details, but Google CEO Sundar Pichai says
 that parts of the memo "[violate our Code of Conduct and cross the line by advancing harmful gender stereotypes in our
 workplace](https://www.blog.google/topics/diversity/note-employees-ceo-sundar-pichai/)."
 
@@ -55,19 +55,20 @@ to endorse stereotypes.  Specifically, the stereotypical Left, who engage in pol
 dissenters into silence", and the stereotypical Right, who have more respect for strength and authority and
 "[tend to be higher in conscientiousness](https://www.chicagoreader.com/Bleader/archives/2011/08/18/4462041-liberals-conservatives-and-personality-traits)".
 
-These are, for the most part, appeals to moral authority.  He is effectively claiming (or at least implying),
-without proof, that he is inherently more reasonable, more conscientious, more... you know, better.
-
-He also engages in some misdirection as to his own ideology, by self-identifying as a "[classical liberal](https://en.wikipedia.org/wiki/Classical_liberalism)",
+He also engages in some misdirection as to his own ideology, by self-identifying as a "[classical liberal](https://en.wikipedia.org/wiki/Classical_liberalism),"
 which the naive reader might assume is similar to a modern liberal -- but it's not.  As Wikipedia explains, that
 ideology is closer to "libertarianism and to free market capitalism."
 
 I think there are elements of both libertarianism and capitalism that we can all appreciate, but it's clear from the
-rest of the memo that the author is really a modern conservative, complaining about things that conservatives typically
-complain about, such as "programs, mentoring, and classes only for people with a certain gender or race."
+rest of the memo that the author is really a modern conservative.  And based on the Left and Right qualities he
+identifies, he is effectively claiming, or at least implying, that he is inherently more reasonable, more conscientious,
+more... you know, better.
 
-Affirmative Action is the classic example.  I'm not immune the argument that Affirmative Action is a form of reverse
-discrimination, but that's a straw man argument.  Affirmative Action was never intended to be non-discriminatory.  It
+He also complains about things that conservatives typically complain about, such as "programs, mentoring, and classes
+only for people with a certain gender or race."
+
+Affirmative Action is the classic example.  I'm not immune to the argument that Affirmative Action is a form of reverse
+discrimination, but that's a straw man argument.  Affirmative Action was not designed to be non-discriminatory.  It
 was intended to be corrective.  If and when the time comes that racial justice and equal opportunity have been achieved,
 and the world is no longer full of racist assholes, then by all means, phase it out.  Ditto for gender discrimination
 and sexist assholes.
