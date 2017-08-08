@@ -24,7 +24,7 @@ things that bother me about it.
 
 ### Echo Chambers
 
-The title of memo seems a bit misleading.  The term "echo chamber" conjures up
+The title of the memo seems a bit misleading.  The term "echo chamber" conjures up
 images of companies engaging in group-think and cheerleading, where good ideas are drowned out and individuality is
 stifled.
 
