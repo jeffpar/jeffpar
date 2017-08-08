@@ -11,11 +11,11 @@ One day, someone at Google wrote an internal memo titled
 
 Some days later, the memo was no longer internal, and the person who wrote it was no longer working there.  He says
 he was fired for "[perpetuating gender stereotypes](http://www.newsweek.com/who-james-damore-alt-right-furious-after-google-fires-engineer-over-anti-647716)."
-Google doesn't get into the details, but [Google CEO CEO Sundar Pichai says](https://www.blog.google/topics/diversity/note-employees-ceo-sundar-pichai/)
-that parts of the memo "violate our Code of Conduct and cross the line by advancing harmful gender stereotypes in our
-workplace."
+Google doesn't get into the details, but Google CEO CEO Sundar Pichai says
+that parts of the memo "[violate our Code of Conduct and cross the line by advancing harmful gender stereotypes in our
+workplace](https://www.blog.google/topics/diversity/note-employees-ceo-sundar-pichai/)."
 
-I doubt that that alone would have resulted in the employee's immediate firing.  There is always more to these
+I doubt that alone would have resulted in the employee's immediate firing.  There is always more to these
 stories than we're initially told.  Instead of having a calm, cool, and collected internal dialog about the memo,
 it's more likely that tempers flared, angry words were uttered, and ways were parted.
 
@@ -24,23 +24,24 @@ things that bother me about it.
 
 ### The Title
 
-The title, "Google’s Ideological Echo Chamber", is something of a misdirection.  The term "echo chamber" conjures up
+The title, "Google’s Ideological Echo Chamber", feels misleading.  The term "echo chamber" conjures up
 images of companies engaging in group-think and cheerleading, where good ideas are drowned out and individuality is
 stifled.
 
 However, the memo doesn't provide any real insights into how Google is functioning (or malfunctioning) as an echo
 chamber.  The real focus of the memo is that other word, "Ideological."  The memo essentially devolves into a rant
 about how some of the author's core ideological values are apparently at odds with those of Google.  And his argument
-isn't really with Google -- it's with liberal ideology in general.  He's simply decided to use Google as a scapegoat.
+isn't really with Google -- it's with liberal ideology in general.  I think he decided to use Google as a convenient
+scapegoat.
 
 ### Corporate Ideology
 
-When companies are formed, it's invariably by people who share almost exactly the same visions and outlooks.
+When companies are formed, it's invariably by people who share almost exactly the same vision and outlook.
 What company is going survive their earliest days if the founders and the first few employees are constantly
 questioning each other decisions?
 
-So, sure, at a very early age, every company develops the philosophies that drive it forward.  If you, as a prospective
-employee, don't agree with those philosophies, then you don't go there.  You find work somewhere else.
+So, sure, at a very early age, every company develops specific philosophies that drive it forward.  If you, as a
+prospective employee, don't agree with those philosophies, then you don't go there.  You find work somewhere else.
 
 As a company grows, it will usually shift its philosophies over time and try to strike a balance that enables it to
 reach the broadest customer base and employee pool.  But no one should expect it give up its core values and become
