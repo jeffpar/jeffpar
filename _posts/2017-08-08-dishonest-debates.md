@@ -22,16 +22,16 @@ it's more likely that tempers flared, angry words were uttered, and ways were pa
 But I don't want to get bogged down in the fall-out of the memo.  I want to focus on the memo itself, and some of the
 things that bother me about it.
 
-### The Title
+### Echo Chambers
 
-The title, "Google’s Ideological Echo Chamber", feels misleading.  The term "echo chamber" conjures up
+The title of memo seems a bit misleading.  The term "echo chamber" conjures up
 images of companies engaging in group-think and cheerleading, where good ideas are drowned out and individuality is
 stifled.
 
 However, the memo doesn't provide any real insights into how Google is functioning (or malfunctioning) as an echo
 chamber.  The real focus of the memo is that other word, "Ideological."  The memo essentially devolves into a rant
 about how some of the author's core ideological values are apparently at odds with those of Google.  And his argument
-isn't really with Google -- it's with liberal ideology in general.  I think he decided to use Google as a convenient
+isn't really with Google -- it's with a certain ideology.  I think he decided to use Google as a convenient
 scapegoat.
 
 ### Corporate Ideology
