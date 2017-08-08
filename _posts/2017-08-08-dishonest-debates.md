@@ -69,9 +69,10 @@ only for people with a certain gender or race."
 
 Affirmative Action is the classic example.  I'm not immune to the argument that Affirmative Action is a form of reverse
 discrimination, but that's a straw man argument.  Affirmative Action was not designed to be non-discriminatory.  It
-was intended to be corrective.  If and when the time comes that racial justice and equal opportunity have been achieved,
-and the world is no longer full of racist assholes, then by all means, phase it out.  Ditto for gender discrimination
-and sexist assholes.
+was intended to be corrective.
+
+If and when the time comes that racial justice and equal opportunity have been achieved, and the world is no longer full
+of racist assholes, then by all means, phase it out.  Ditto for gender discrimination and sexist assholes.
 
 ### Dishonest Debates
 
