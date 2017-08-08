@@ -1,3 +1,8 @@
 ### Jeff's Projects
 
-#### [PCjs: Machines In Your Browser](http://www.pcjs.org/)
+- [PCjs](http://www.pcjs.org/)
+
+### Jeff's Musings
+
+- [Personal](/blog/)
+- [Professional](http://www.pcjs.org/blog/)
