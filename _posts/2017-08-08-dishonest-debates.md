@@ -24,9 +24,8 @@ things that bother me about it.
 
 ### Echo Chambers
 
-The title of the memo seems a bit misleading.  The term "echo chamber" conjures up
-images of companies engaging in group-think and cheerleading, where good ideas are drowned out and individuality is
-stifled.
+The title of the memo seems a bit misleading.  The term "echo chamber" conjures up images of companies engaging
+in group-think and cheerleading, where good ideas are drowned out and individuality is stifled.
 
 However, the memo doesn't provide any real insights into how Google is functioning (or malfunctioning) as an echo
 chamber.  The real focus of the memo is that other word, "Ideological."  The memo essentially devolves into a rant
@@ -55,6 +54,8 @@ to endorse stereotypes.  Specifically, the stereotypical Left, who engage in pol
 dissenters into silence", and the stereotypical Right, who have more respect for strength and authority and
 "[tend to be higher in conscientiousness](https://www.chicagoreader.com/Bleader/archives/2011/08/18/4462041-liberals-conservatives-and-personality-traits)".
 
+Detect any bias in his characterizations of Left and Right?  My bullshit detector fired immediately.
+
 He also engages in some misdirection as to his own ideology, by self-identifying as a "[classical liberal](https://en.wikipedia.org/wiki/Classical_liberalism),"
 which the naive reader might assume is similar to a modern liberal -- but it's not.  As Wikipedia explains, that
 ideology is closer to "libertarianism and to free market capitalism."
@@ -73,6 +74,11 @@ was intended to be corrective.
 
 If and when the time comes that racial justice and equal opportunity have been achieved, and the world is no longer full
 of racist assholes, then by all means, phase it out.  Ditto for gender discrimination and sexist assholes.
+
+But we are not there yet.  Not by a long shot.  A few decades of half-hearted attempts at countering blatant racism
+and sexism do not compensate for centuries of disgraceful conduct.  I'm not sure what the litmus tests should be, but 
+how about equal pay for equal roles, regardless of race or gender?  That sounds like a good test, and guess what?
+We're not there yet.  
 
 ### Dishonest Debates
 
