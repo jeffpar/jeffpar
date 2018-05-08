@@ -6,8 +6,6 @@ layout: default
 
     {{ content }}
 
-    <h1 class="page-heading">Posts</h1>
-
     <ul class="post-list">
         {% for post in site.posts %}
         <li>
@@ -16,7 +14,7 @@ layout: default
             <h4>
                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             </h4>
-            {{ post.excerpt | replace:'</p>','...</p>'}}
+            {%- comment -%}{{ post.excerpt | replace:'</p>','...</p>'}}{%- endcomment -%}
         </li>
         {% endfor %}
     </ul>
