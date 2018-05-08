@@ -1,4 +1,4 @@
-### Jeff's Projects
+### @jeffpar's projects
 
 - [PCjs](https://www.pcjs.org/)
 - [Mandelbots](http://www.mandelbot.net/)
