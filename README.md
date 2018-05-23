@@ -16,7 +16,6 @@ Past projects include:
 
 You can find me on:
 
-- [My blog](blog/)
 - [GitHub](https://github.com/jeffpar)
 - [Twitter](https://twitter.com/jeffpar)
 - [Instagram](https://www.instagram.com/jeffpar/)
@@ -26,4 +25,4 @@ You can find me on:
 - [LinkedIn](https://www.linkedin.com/in/jeffpar/)
 - [Tumblr](https://www.tumblr.com/blog/jeffpar)
 
-or possibly at a [coffee shop](http://www.toppotdoughnuts.com/) enjoying a doughnut.
+or on my [blog](blog/), or possibly at a [coffee shop](http://www.toppotdoughnuts.com/) enjoying a doughnut.
