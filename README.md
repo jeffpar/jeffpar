@@ -2,7 +2,7 @@
 
 Current projects:
 
-- [PCjs: the IBM PC and other machines in your browser](https://www.pcjs.org/)
+- [PCjs](https://www.pcjs.org/) (the original IBM PC in a browser)
 
 Past projects include:
 
@@ -10,7 +10,7 @@ Past projects include:
 - [Pocket Aargon](https://web.archive.org/web/20040627193028/http://www.doublebit.com:80/aargon/)
 - [CODE5](https://web.archive.org/web/20040823231821/http://www.doublebit.com:80/code5/)
 - [Virtual Challenger 1P](https://web.archive.org/web/20040815231600/http://www.doublebit.com:80/archives/software/challenger1p/)
-- [The PIMulator (Palm Pilot emulator)](https://web.archive.org/web/20040904150821/http://www.doublebit.com:80/pimulator/)
+- [The PIMulator](https://web.archive.org/web/20040904150821/http://www.doublebit.com:80/pimulator/) (a Java-based Palm Pilot emulator)
 - [Mandelbots](http://www.mandelbot.net/)
 - [KnowledgeBase Archive](https://jeffpar.github.io/kbarchive/)
 
