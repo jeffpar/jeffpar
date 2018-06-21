@@ -4,7 +4,7 @@ Current projects:
 
 - [PCjs](https://www.pcjs.org/) (the original IBM PC in a browser)
 
-Past projects include:
+Previous projects:
 
 - [Pocket TV Browser](https://web.archive.org/web/20040604083418/http://www.doublebit.com:80/ptvb/)
 - [Pocket Aargon](https://web.archive.org/web/20040627193028/http://www.doublebit.com:80/aargon/)
@@ -13,6 +13,13 @@ Past projects include:
 - [The PIMulator](https://web.archive.org/web/20040904150821/http://www.doublebit.com:80/pimulator/) (a Java-based Palm Pilot emulator)
 - [Mandelbots](http://www.mandelbot.net/)
 - [KnowledgeBase Archive](https://jeffpar.github.io/kbarchive/)
+
+Products that I made small contributions to:
+
+- [OS/2](https://en.wikipedia.org/wiki/OS/2) (1.0, 1.1, 2.0)
+- [MS-DOS](https://en.wikipedia.org/wiki/MS-DOS) (6.0)
+- [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows) (3.1 and 95)
+- [Windows CE](https://en.wikipedia.org/wiki/Windows_Embedded_Compact) (2.0)
 
 You can find me on:
 
