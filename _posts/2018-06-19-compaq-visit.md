@@ -3,8 +3,9 @@ layout: post
 title: Compaq Visit
 ---
 
-I visited Houston for a day, to check out the last remaining vestiges of Compaq Computer Corporation and to
-meet many of the impressive engineers who helped create the DeskPro 386 (among other things). 
+I visited Houston for a day, to check out the last remaining vestiges of Compaq Computer Corporation.
+Pictures inside in the now-largely-abandoned manufacturing facilities were forbidden, but I was able to
+snap a photo of some cool DeskPro 386 artwork.
 
 ![Compaq Center Drive](/photos/2018/06/Compaq Center Drive.jpg)
 
