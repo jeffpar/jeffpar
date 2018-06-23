@@ -2,7 +2,7 @@
 
 Current projects:
 
-- [PCjs](https://www.pcjs.org/) (PCs in your browser)
+- [PCjs](https://www.pcjs.org/)
 
 Previous projects:
 
@@ -19,6 +19,7 @@ Products that I made small contributions to:
 - [OS/2](https://en.wikipedia.org/wiki/OS/2) (1.x and 2.0)
 - [MS-DOS](https://en.wikipedia.org/wiki/MS-DOS) (6.0)
 - [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows) (3.1 and 95)
+- [Windows NT](https://en.wikipedia.org/wiki/Windows_NT) (3.1)
 - [Windows CE](https://en.wikipedia.org/wiki/Windows_Embedded_Compact) (2.0)
 
 You can find me on:
