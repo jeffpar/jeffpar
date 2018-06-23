@@ -2,7 +2,7 @@
 
 Current projects:
 
-- [PCjs](https://www.pcjs.org/) (the IBM PC in a browser)
+- [PCjs](https://www.pcjs.org/) (PCs in your browser)
 
 Previous projects:
 
