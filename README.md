@@ -14,7 +14,7 @@ Previous projects:
 - [Mandelbots](http://www.mandelbot.net/)
 - [KnowledgeBase Archive](https://jeffpar.github.io/kbarchive/)
 
-Products that I made small contributions to:
+Products I worked on:
 
 - [OS/2](https://en.wikipedia.org/wiki/OS/2) (1.x and 2.0)
 - [MS-DOS](https://en.wikipedia.org/wiki/MS-DOS) (6.0)
