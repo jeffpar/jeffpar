@@ -1,2 +1,5 @@
+.DS_Store
+.history/
 .idea/
 _site/
+tweets/
