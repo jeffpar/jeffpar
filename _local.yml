@@ -1,4 +1,4 @@
 title: jeffpar.com
 description: The personal website of @jeffpar
 theme: jekyll-theme-hacker
-exclude: [".idea", "Gemfile*", "archive", "/tweets", "/videos"]
+exclude: [".idea", "Gemfile*", "archive"]

@@ -3,3 +3,7 @@
 .idea/
 _site/
 tweets/
+videos/
+.sass-cache
+Thumbs.db
+Gemfile.lock

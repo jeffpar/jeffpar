@@ -1,0 +1,22 @@
+{
+    "[jsonc]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2,
+        "files.trimTrailingWhitespace": true,
+        "files.insertFinalNewline": true,
+        "files.trimFinalNewlines": true
+    },
+    "[markdown]": {
+        "editor.insertSpaces": false,
+        "editor.tabSize": 4,
+        "files.trimTrailingWhitespace": false,
+        "files.insertFinalNewline": true,
+        "files.trimFinalNewlines": true
+    },
+    "workbench.colorTheme": "Atom One Dark",
+    "workbench.colorCustomizations": {
+        "[Atom One Dark]": {
+            "debugToolBar.background": "#21252B"
+        }
+    }
+}
