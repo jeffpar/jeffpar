@@ -1,2 +1,2 @@
 ![Kakariko Doughnut](photos/games/tears/Kakariko_Doughnut.png)
-[![GitHub Streak](https://streak-stats.demolab.com?user=jeffpar&theme=dark&card_width=847)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=jeffpar&theme=dark&hide_border=true)
